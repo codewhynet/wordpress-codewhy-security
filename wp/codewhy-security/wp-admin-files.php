@@ -92,7 +92,7 @@
   91 => 'wp-admin/widgets-form.php',
   92 => 'wp-admin/widgets.php',
 
-  "codewhy-security/frontend-index.php" ,
+  "index.php" ,
   "wp-login.php" ,
 
 ) ;

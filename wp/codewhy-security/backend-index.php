@@ -21,7 +21,7 @@ function runController()
 
 	if(stripos($uri, 'wp-json') === 0)
 	{
-		$uri = "codewhy-security/frontend-index.php";
+		$uri = "index.php";
 	}
 
 
